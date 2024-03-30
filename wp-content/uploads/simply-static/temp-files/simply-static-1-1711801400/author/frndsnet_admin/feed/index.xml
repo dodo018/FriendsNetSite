@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>FriendsNet</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<title>frndsnet_admin &#8211; FriendsNet</title>
+	<atom:link href="https://https://dodo018.github.io/FriendsNetSite/author/frndsnet_admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://dodo018.github.io/FriendsNetSite</link>
 	<description></description>
 	<lastBuildDate>Sat, 30 Mar 2024 11:52:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2024/03/30/hello-world/</link>
-					<comments>/2024/03/30/hello-world/#comments</comments>
+		<link>https://https://dodo018.github.io/FriendsNetSite/2024/03/30/hello-world/</link>
+					<comments>https://https://dodo018.github.io/FriendsNetSite/2024/03/30/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[frndsnet_admin]]></dc:creator>
 		<pubDate>Sat, 30 Mar 2024 11:52:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://https://dodo018.github.io/FriendsNetSite/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/03/30/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://https://dodo018.github.io/FriendsNetSite/2024/03/30/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

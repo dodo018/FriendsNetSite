@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://https://dodo018.github.io/FriendsNetSite/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://dodo018.github.io/FriendsNetSite</link>
 	<description></description>
 	<lastBuildDate>Sat, 30 Mar 2024 11:52:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
